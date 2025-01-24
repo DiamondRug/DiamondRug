@@ -1,0 +1,2 @@
+# DiamondRug
+DiamondRug coin website
